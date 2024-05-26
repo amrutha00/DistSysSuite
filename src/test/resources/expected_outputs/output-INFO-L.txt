@@ -1,0 +1,2 @@
+{"host":"localhost","port":55552,"log_path":"src/main/resources/manual-logs/log-dir-2/log23.log"}
+{"host":"localhost","port":55553,"log_path":"src/main/resources/manual-logs/log-dir-3/log33.log"}

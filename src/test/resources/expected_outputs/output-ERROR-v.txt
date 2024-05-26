@@ -1,0 +1,11 @@
+{"log-path":"src/main/resources/manual-logs/log-dir-1/log11.log","host":"localhost","port":"55551","line_number":"1","content":"2023-05-21 10:15:30 INFO Starting server on port 55551"}
+{"log-path":"src/main/resources/manual-logs/log-dir-1/log11.log","host":"localhost","port":"55551","line_number":"3","content":"2023-05-21 10:16:00 INFO Service started successfully"}
+{"log-path":"src/main/resources/manual-logs/log-dir-1/log12.log","host":"localhost","port":"55551","line_number":"1","content":"2023-05-22 10:17:45 error Connection timed out"}
+{"log-path":"src/main/resources/manual-logs/log-dir-1/log12.log","host":"localhost","port":"55551","line_number":"2","content":"2023-05-22 10:18:30 INFO Client connected"}
+{"log-path":"src/main/resources/manual-logs/log-dir-2/log22.log","host":"localhost","port":"55552","line_number":"1","content":"2023-05-21 10:17:45 INFO Retrying connection"}
+{"log-path":"src/main/resources/manual-logs/log-dir-2/log21.log","host":"localhost","port":"55552","line_number":"1","content":"2023-05-21 10:15:30 INFO Starting server on port 55552"}
+{"log-path":"src/main/resources/manual-logs/log-dir-2/log21.log","host":"localhost","port":"55552","line_number":"2","content":"2023-05-21 10:15:35 WARN Low disk space"}
+{"log-path":"src/main/resources/manual-logs/log-dir-3/log31.log","host":"localhost","port":"55553","line_number":"1","content":"2023-05-21 10:15:30 INFO Starting server on port 55553"}
+{"log-path":"src/main/resources/manual-logs/log-dir-3/log31.log","host":"localhost","port":"55553","line_number":"2","content":"2023-05-21 10:15:35 ERR OR Initializing components"}
+{"log-path":"src/main/resources/manual-logs/log-dir-3/log31.log","host":"localhost","port":"55553","line_number":"3","content":"2023-05-21 10:16:00 INFO Components initialized successfully"}
+{"log-path":"src/main/resources/manual-logs/log-dir-3/log32.log","host":"localhost","port":"55553","line_number":"2","content":"2023-05-21 10:18:30 INFO Shutting down server"}

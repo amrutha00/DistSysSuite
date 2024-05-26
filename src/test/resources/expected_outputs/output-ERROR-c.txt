@@ -1,0 +1,5 @@
+{"log-dir-path":"src/main/resources/manual-logs/log-dir-1/log11.log","host":"localhost","port":"55551","count":"1"}
+{"log-dir-path":"src/main/resources/manual-logs/log-dir-2/log22.log","host":"localhost","port":"55552","count":"1"}
+{"log-dir-path":"src/main/resources/manual-logs/log-dir-2/log21.log","host":"localhost","port":"55552","count":"1"}
+{"log-dir-path":"src/main/resources/manual-logs/log-dir-3/log32.log","host":"localhost","port":"55553","count":"2"}
+{"log-dir-path":"src/main/resources/manual-logs/log-dir-3/log33.log","host":"localhost","port":"55553","count":"1"}
